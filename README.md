@@ -4,7 +4,7 @@ Picture in picture give you a virtual second screen. It makes a floating video w
 **See live demo [here] (https://smkil.github.io/picture-in-picture/)**
 
 This demo demonstrates:
-- Virtul second screen
+- Virtal second screen
 - Event listener added to button
 - Screen capture API
 - Custom button styling
